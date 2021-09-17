@@ -38,6 +38,9 @@ namespace First__Console_Application
             //below doesn't work because return value is not a int
             //int dIDivInt = d1 / num1;
 
+            ///<summary>
+            ///Cap my name
+            ///</summary>
             string myname = "Loi Pham";
             string uppercaseName = myname.ToUpper();
             Console.WriteLine(uppercaseName);
