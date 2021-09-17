@@ -1,0 +1,16 @@
+D:\Web Developement\Visual Studio\C#\First  Console Application\First  Console Application\bin\Debug\net5.0\First  Console Application.exe
+D:\Web Developement\Visual Studio\C#\First  Console Application\First  Console Application\bin\Debug\net5.0\First  Console Application.deps.json
+D:\Web Developement\Visual Studio\C#\First  Console Application\First  Console Application\bin\Debug\net5.0\First  Console Application.runtimeconfig.json
+D:\Web Developement\Visual Studio\C#\First  Console Application\First  Console Application\bin\Debug\net5.0\First  Console Application.runtimeconfig.dev.json
+D:\Web Developement\Visual Studio\C#\First  Console Application\First  Console Application\bin\Debug\net5.0\First  Console Application.dll
+D:\Web Developement\Visual Studio\C#\First  Console Application\First  Console Application\bin\Debug\net5.0\ref\First  Console Application.dll
+D:\Web Developement\Visual Studio\C#\First  Console Application\First  Console Application\bin\Debug\net5.0\First  Console Application.pdb
+D:\Web Developement\Visual Studio\C#\First  Console Application\First  Console Application\obj\Debug\net5.0\First  Console Application.csproj.AssemblyReference.cache
+D:\Web Developement\Visual Studio\C#\First  Console Application\First  Console Application\obj\Debug\net5.0\First  Console Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Web Developement\Visual Studio\C#\First  Console Application\First  Console Application\obj\Debug\net5.0\First  Console Application.AssemblyInfoInputs.cache
+D:\Web Developement\Visual Studio\C#\First  Console Application\First  Console Application\obj\Debug\net5.0\First  Console Application.AssemblyInfo.cs
+D:\Web Developement\Visual Studio\C#\First  Console Application\First  Console Application\obj\Debug\net5.0\First  Console Application.csproj.CoreCompileInputs.cache
+D:\Web Developement\Visual Studio\C#\First  Console Application\First  Console Application\obj\Debug\net5.0\First  Console Application.dll
+D:\Web Developement\Visual Studio\C#\First  Console Application\First  Console Application\obj\Debug\net5.0\ref\First  Console Application.dll
+D:\Web Developement\Visual Studio\C#\First  Console Application\First  Console Application\obj\Debug\net5.0\First  Console Application.pdb
+D:\Web Developement\Visual Studio\C#\First  Console Application\First  Console Application\obj\Debug\net5.0\First  Console Application.genruntimeconfig.cache
